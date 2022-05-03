@@ -1,7 +1,6 @@
 # Practical Docker
 
-This is sample project to accommodate my "Practical Docker" presentation.
-Clone this repository and then follow all the instructions listed in this README.
+
 
 ## Installation
 
